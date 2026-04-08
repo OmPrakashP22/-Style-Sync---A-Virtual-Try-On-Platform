@@ -1,0 +1,17 @@
+rembg[gpu]
+flask
+requests
+gdown
+torchgeometry
+numpy
+Pillow
+scipy
+ninja
+opencv-python
+basicsr
+facexlib
+gfpgan
+realesrgan
+google-genai
+huggingface_hub
+python-dotenv

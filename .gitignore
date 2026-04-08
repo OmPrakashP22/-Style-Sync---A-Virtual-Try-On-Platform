@@ -1,0 +1,29 @@
+# Python Virtual Environments
+venv/
+env/
+__pycache__/
+*.pyc
+*.pyo
+
+# Environments and Secrets
+.env
+.claude/
+.vscode/
+.idea/
+
+# Large binaries, models, and deep learning checkpoints
+checkpoints/
+openpose/
+Self-Correction-Human-Parsing/checkpoints/
+*.pth
+*.onnx
+
+# Local temporary execution data & cache
+temp_data/
+temp_uploads/
+static/results/
+
+# Execution Scratchpads
+*.log
+debug_out*
+test_inference*
