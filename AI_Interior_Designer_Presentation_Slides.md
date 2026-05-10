@@ -488,26 +488,3 @@ py -3.11 scripts/evaluate.py --input_dir ./sample_images --output_dir ./outputs 
 
 ---
 
-## 📎 BONUS: Suggested Visuals for Each Slide
-
-| Slide | Suggested Visual |
-|-------|-----------------|
-| 1 | Split before/after room image with AI glow effect |
-| 2 | Infographic: cost comparison (traditional designer vs. AI) |
-| 3 | Numbered checklist with icons |
-| 4 | Technology logos arranged in a grid (PyTorch, HuggingFace, Streamlit, FastAPI) |
-| 5 | The architecture block diagram (from content above) |
-| 6 | Left-to-right pipeline flow with model icons |
-| 7 | Prompt assembly animation: user selections → combined prompt text |
-| 8 | Screenshots of the Streamlit UI showing different features |
-| 9 | LoRA comparison table + training pipeline flow |
-| 10 | Before/after images with metric scores overlaid |
-| 11 | Summary bullet points + future scope icons |
-
-## 📎 BONUS: Design Tips for Your Slides
-
-- **Color scheme:** Dark background (#0f0f0f) with indigo accent (#6366f1) — matches the app's theme
-- **Font:** Use "Inter" or "Poppins" for a modern tech feel
-- **Layout:** Use left-aligned text with right-side visuals on content slides
-- **Animations:** Use simple fade-in for bullet points, no spinning transitions
-- **Code blocks:** Use a dark-themed code snippet style (Monokai or One Dark)
