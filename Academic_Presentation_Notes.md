@@ -5,7 +5,7 @@
 
 ## SLIDE 1 — Title
 **Project Title:** AI-Powered Photorealistic Virtual Try-On Platform with Generative Compositing and Fashion Critique
-**Team:** 23PD11 - Ghirivaasan A, 23PD40 - Visva V
+**Team:** Om Prakash P (23PD23) and Dipankar T V (23PD09)
 ---
 
 ## SLIDE 2 — Problem Statement
